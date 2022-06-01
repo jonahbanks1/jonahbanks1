@@ -9,7 +9,7 @@
 - I am a creative probelm-solver or as I would prefer to call it - "solutions analyst" and attentive listener, this allows me to analyze and identify root-cause of problems in relationships and machines faster. 
 - I want to apply my "growth-hacking" mentality to business problems for partners and employers, leveraging on my knowledge of artificial intelligence and data analysis. 
 - 👀 I’m passionate about the field of data science.
-- My strong mathematical and analytical educational background enables me to quickly discover trends in seemingly chaotic incident samples.
+- My strong mathematical and analytical educational background enables me to quickly discover trends in seemingly chaotic incident samples. An ability that is further enhanced with the application of analytical tools like Python, SQL and IBM cloud for data.
 - I am also exceptionally skilled at reporting and maintaining stakeholder relationships which positions me uniquely to convey data insights to the interested parties in well written manner and clear - dynamic visuals. 
 
 
